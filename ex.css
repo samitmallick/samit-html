@@ -1,0 +1,68 @@
+.hd{
+    height: 60px;
+    background-color: coral;
+    text-align:center;
+}
+.bd{
+    height: 500px;
+    background-color: cadetblue;
+}
+
+.lf{
+    height: 500px;
+    background-color: rgb(214, 218, 28);
+    width:30%;
+    float: left;
+}
+.img{
+    height: 40%;
+    width: 400px;
+     border-radius: 50%; 
+    background-color: darkgoldenrod;
+    margin-left: 80px;
+    /* background-image: url(C:\Users\samit\Downloads\WhatsApp Image 2023-08-11 at 2.58.39 PM (2).); 
+    background-size: auto;          */
+}
+
+.map{
+    height: 60%;
+    width:370px;
+    background-color: darkmagenta;
+}
+.location{
+    height: 100%;
+    width:370px;
+}
+.ri{
+    height: 500px;
+    background-color: rgb(107, 170, 35);
+    width:70%;
+    float: left;
+}
+#a1{
+    text-align: center;
+    color: whitesmoke;
+}
+#a2{
+    text-align: center;
+    color: whitesmoke;
+}
+ #a3{
+     margin-left: 300px;
+    text-decoration-color: whitesmoke;
+  
+ }
+ #b1{
+    margin-left: 400px;
+   color: whitesmoke;
+ 
+}
+#b2{
+    margin-left: 300px;
+   
+}
+.ft{
+    height: 40px;
+    background-color: rgb(180, 121, 117);
+    text-align:center ;
+}
